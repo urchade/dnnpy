@@ -1,4 +1,4 @@
-# dnnpy Framework
+# Deep Neural Nets framework with numpy
 
 ## Installation
 ````bash
