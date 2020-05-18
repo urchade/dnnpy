@@ -5,6 +5,8 @@
 pip install dnnpy
 ````
 ## Example usage
+
+### Feedforward neural networks
 ```python
 from dnnpy.activations import ReLU
 from dnnpy.data import make_regression_data
