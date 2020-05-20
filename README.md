@@ -51,5 +51,5 @@ plt.show()
 from dnnpy.metrics import mean_absolute_error as mae
 
 y_pred = model.forward(x_test)
-mse = mae(y_test, y_pred)
+test_loss = mae(y_test, y_pred)
 ```
